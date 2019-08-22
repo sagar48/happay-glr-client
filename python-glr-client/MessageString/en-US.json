@@ -1,0 +1,12 @@
+{
+  "locale": "en-US",
+  "msg_data": {
+      "MSGID0001": "Invalid Date",
+      "MSGID0002": "Hi {first_name} {last_name}, your date of birth is {dob}",
+      "MSGID0003": "Kindly add entry field with unique combination of header field and line number.",
+      "MSGID0004": "Kindly add entry field with unique tally element.",
+      "MSGID0005": "Kindly add s3 recipient with unique combination of access_key/secret_access_key/bucket.",
+      "MSGID0006": "Sorry, we couldn't process your request right now. If you are not expecting this, please contact help@happay.in",
+      "MSGID0007": "HEADER_FIELDS_NOT_CONFIGURED = 'Header Fields not configured in EntryGroup"
+  }
+}

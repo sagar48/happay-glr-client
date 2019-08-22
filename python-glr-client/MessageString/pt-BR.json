@@ -1,0 +1,35 @@
+{
+  "locale": "pt-BR",
+  "msg_data": {
+      "expense": {
+        "MSGID0001": {
+          "msg_str": "Data inválida",
+          "msg_params": {}
+        },
+        "MSGID0002": {
+          "msg_str": "Olá {first_name} {last_name}, sua data de nascimento é {dob}",
+          "msg_params": {"first_name": "plain", "last_name": "plain", "dob": "date"}
+        },
+        "MSGID0003": {
+          "msg_str": "Por favor, adicione o campo de entrada com combinação única de campo de cabeçalho e número de linha.",
+          "msg_params": {}
+        },
+        "MSGID0004": {
+          "msg_str": "Por favor, adicione o campo de entrada com elemento de registro exclusivo.",
+          "msg_params": {}
+        },
+        "MSGID0005": {
+          "msg_str": "Por favor, adicione s3 destinatário com combinação única de access_key/secret_access_key/bucket",
+          "msg_params": {}
+        },
+        "MSGID0006": {
+          "msg_str": "Desculpe, não foi possível processar sua solicitação agora. Se você não está esperando isso, entre em contato com help@happay.in",
+          "msg_params": {}
+        },
+        "MSGID0007": {
+          "msg_str": "Campos de cabeçalho não configurados no EntryGroup",
+          "msg_params": {}
+        }
+      }
+  }
+}
